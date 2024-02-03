@@ -1,0 +1,32 @@
+.registrationForm {
+    border: 1px solid #e49c9c;
+    border-radius: 8px;
+    width: 100vw;
+    height: 70vw;
+    background-repeat: no-repeat;
+    background-size: 100vw;
+    background-color: rgb(71, 148, 148);
+    padding-top: 5vw;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url(/pictures/calhacks-background.jpeg);
+  }
+  
+  .name {
+    display: block;
+    justify-content: center;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+
+  .title {
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 5vw;
+  }
+  
+  .input {
+    padding: 8px;
+    margin-bottom: 16px;
+    border-radius: 4px;
+    text-align: center;
+  }
